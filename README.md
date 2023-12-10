@@ -1,5 +1,5 @@
 # markowitz-selection-portfolio
-This is python program run on [Jupyternotebook]([url](https://jupyter.org/)).
+This is python program run on [Jupyternotebook]([https://jupyter.org/]).
 This program calculates the optimal selection ratios of 3 stocks: NVDA, AVGO, PFE.
 
 ## notebok install
